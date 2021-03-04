@@ -1,7 +1,7 @@
 {
-  "Id": 6,
-  "PatchVersion": "1.00",
-  "Changelog": "<h2>VERSIÓN 1.00</h2><p>Versión inicial de la traducción.</p><br><span>Este parche solamente es compatible con la versión de Steam.</span>",
+  "Id": 7,
+  "PatchVersion": "1.01",
+  "Changelog": "<h2>VERSIÓN 1.01</h2><p>Novedades:<br><ul><li>Corregidas varias erratas.</li><li>Arreglado un diálogo corrupto de Vulcano.</li><li>Se ha incluido el carácter 'ö' en la fuente para el arma 'Mjöllnir'.</li><li>Se ha incluido el carácter 'è' para el arma 'Flèche enflammée'.</li><li>Se ha incluido el carácter 'Ü' para el enemigo 'Überprinny'.</li><li>Se ha editado al castellano el gráfico del final de la Asamblea Oscura.</li><li>Se ha editado al castellano el gráfico de los Durianes Oscuros/Melocotones Podridos de la intermisión de Etna del final del capítulo 4.</li></ul></p><span>Este parche solamente es compatible con la versión de Steam.</span>",
   "Md5": [
     "1235eb61e0f31ad211b1fc441bef121d",
     "8d8186ba070f5289b775f0e0f5c91654",
