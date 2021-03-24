@@ -16,7 +16,7 @@ Siguiendo el siguiente [tutorial](https://github.com/Hypertraducciones/Disgaea-P
 
 # Herramientas utilizadas en el proyecto
 * [Disgaea Tools](https://github.com/ProgSys/pg_disatools): Herramientas utilizadas para extraer y reimportar la gran mayoría de archivos del juego (texto, gráficos, etc.).
-* [Pleinair](https://github.com/Darkmet98/Pleinair): Herramienta utilizada para exportar en formato .PO todo el texto del juego y reimportarlo con caracteres especiales.
+* [Pleinair](https://github.com/Darkmet98/Pleinair): Herramienta utilizada para exportar en formato .PO todo el texto del juego y reimportarlo con caracteres especiales. También altera los datos del ejecutable y permite exportar y reimportar algunos gráficos adicionales.
 
 # Equipo
 * **Óscar73**: Traductor y tester.
